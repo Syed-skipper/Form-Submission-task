@@ -1,0 +1,26 @@
+#column{
+    background-color: grey;
+    
+}
+#form{
+    margin: 17px 17px 17px 17px;
+    
+}
+thead{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+#column1{
+    background-color: bisque;
+}
+.col h1{
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 600px) {
+    #column {
+      width: auto;
+    }
+  }
